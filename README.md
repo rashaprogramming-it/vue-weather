@@ -2,17 +2,17 @@
 
 Vue Weather is a site that provides information about the weather in the selected city for the current day as well as for the next 7 days.
 
-Technologies/tools used:
+**Technologies/tools used:**
 
-  -> VueJS 3
-  -> CompositionAPI
-  -> VueRouter
-  -> Pinia
-  -> Vite
-  -> SCSS
-  -> Axios
-  -> WeatherAPI
-  -> TimeStampJS
+  * VueJS 3
+  * CompositionAPI
+  * VueRouter
+  * Pinia
+  * Vite
+  * SCSS
+  * Axios
+  * WeatherAPI
+  * TimeStampJS
 
 ## Recommended IDE Setup
 
